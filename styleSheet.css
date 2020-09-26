@@ -1,0 +1,75 @@
+.container{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.options{
+	background-color: yellow;
+	margin-left: 20px;
+}
+
+body {
+	background-color: yellow;
+}
+
+hr{
+	background-color: yellow;
+}
+.mainTitle{
+	background-color: red;
+	color: white;
+}
+
+.containOne{
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 50px;
+	background-color: yellow;
+}
+h2{
+	text-align: center;
+	background-color: yellow;
+	margin-top: 20px;
+}
+
+footer {
+	background-color: yellow;
+	text-align: center;
+}
+
+.finalQuote{
+	background-color: yellow;
+	margin-bottom: 50px;
+	text-align: center;
+	font-style: italic;
+}
+
+p{
+	background-color: yellow;
+	margin-top: 50px;
+	text-align: center;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.foto{
+	width: 50%;
+}
+
+h5{
+	background-color: yellow;
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+.loneFoto{
+	width: 70%;
+	margin-top: 50px;
+}
+.pizza{
+	background-color: yellow;
+	margin-top: 20px;
+}
